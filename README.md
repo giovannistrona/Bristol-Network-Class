@@ -1,2 +1,2 @@
-# Bristol-Network-Class
-Material from the teaching demonstration
+# Ecological Data Representation
+Material from the course
